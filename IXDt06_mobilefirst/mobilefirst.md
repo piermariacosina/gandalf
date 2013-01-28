@@ -247,6 +247,10 @@ Mobile 7 -> 10
 ***
 [html5 responsive template for websites ](http://www.initializr.com/)
 
+***
+[check browser capabilities ](http://haz.io/)
+
+
 
 
 
