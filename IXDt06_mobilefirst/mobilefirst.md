@@ -210,8 +210,10 @@ Mobile sprite technique
 
 * More Variations in Layout
 > Susy and the responsive grid 7 to 16
+
 [[img27.png]]
 
 Mobile 7 -> 10
+
 [[img28.png]]
 
