@@ -162,6 +162,7 @@ Yelp. Their mobile products are used by just 7% of their total audience but are 
 [[img16.png]]
 [[img17.png]]
 [[img18.png]]
+[[img18_1.png]]
 [[img19.png]]
 [[img20.png]]
 [[img21.png]]
