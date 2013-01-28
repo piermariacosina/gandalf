@@ -83,6 +83,9 @@ Others have shown that 25% of US internet users are mobile-only, meaning they ne
 > grey computer 
 > green tablet and smartphones
 
+***
+
+#4. ALLIGN WITH THE MOBILE BEHAVIOUR
 
 
 
