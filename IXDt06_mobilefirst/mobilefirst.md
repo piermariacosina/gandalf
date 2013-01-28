@@ -230,5 +230,8 @@ Mobile 7 -> 10
 ## RESOURCES
 
 [Responsive email tutorial LevelUpTuts ](http://www.youtube.com/watch?v=eC_svDfv7CE)
+
+***
+
 [img book ](http://www.abookapart.com/products/mobile-first)
 
