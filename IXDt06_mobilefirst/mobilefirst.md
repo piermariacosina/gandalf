@@ -19,7 +19,7 @@
 
 [[img3.jpg]] 
 
-# ELEMENTS OF RESPONSIVE DESIGN
+## ELEMENTS OF RESPONSIVE DESIGN
 
 1. A flexible, grid-based layout
 3. Flexible images and media
