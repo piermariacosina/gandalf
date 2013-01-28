@@ -12,5 +12,5 @@
 
 [[img1.png]]
 
-[[img2.jpg]]
+[[img2.jpg]]  > Room for just what actually matter
 
