@@ -52,6 +52,9 @@ Others have shown that 25% of US internet users are mobile-only, meaning they ne
 
 * **when and where**
 
+***
+
+
 * 84% use them at home
 
 * 80% use them during miscellaneous downtime throughout the day 
