@@ -155,3 +155,14 @@ The onus for stopping spam should not fall on your legitimate visitors. Making i
 Close to 19% of Facebook posts are created on the mobile web experience, while Facebook’s native iPhone, Android, and Blackberry apps only account for about 4% of posts each. 
 Yelp. Their mobile products are used by just 7% of their total audience but are responsible for 35% of all their searches.
 
+#8. ONE EYEBALL AND ONE THUMB
+
+[[img16.png]]
+[[img17.png]]
+[[img18.png]]
+[[img19.png]]
+[[img20.png]]
+[[img21.png]]
+[[img22.png]]
+[[img23.png]]
+
