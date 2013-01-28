@@ -91,6 +91,14 @@ Others have shown that 25% of US internet users are mobile-only, meaning they ne
 > author Josh Clark 
 > on Mobile user segmentation
 
+* Lookup/Find (urgent info, local): I need an answer to some- thing now—frequently related to my current location in the world.
+
+* Explore/Play (bored, local): I have some time to kill and just want a few idle time distractions.
+
+* Check In/Status (repeat/micro-tasking): Something important to me keeps changing or updating and I want to stay on top of it. 
+
+* Edit/Create (urgent change/micro-tasking): I need to get some- thing done now that can’t wait.
+
 
 
 
