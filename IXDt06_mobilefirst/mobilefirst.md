@@ -1,4 +1,3 @@
-
 ***
 
 #1-THE RWD
@@ -36,6 +35,7 @@
 > ### Global smartphone shipments surpassed global Pc shipments two years earlier than predicted. Studies have projected that mobile internet use will surpass traditional desktop internet use by 2014 (source: Mary Meeker – Morgan Stanley)
 
 # MOBILE-ONLY ACCESS
+Others have shown that 25% of US internet users are mobile-only, meaning they never or rarely access the internet via laptop or desktop computers (source – Alistair Hill – On Device Research )
 
 
 
