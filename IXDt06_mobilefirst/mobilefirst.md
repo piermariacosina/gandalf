@@ -12,5 +12,5 @@
 
 [[Screen Shot 2013-01-15 at 8.01.29 AM.png]]
 
-[[foto3.jpg]]
+[[IXDt06_mobilefirst/foto3.jpg]]
 
