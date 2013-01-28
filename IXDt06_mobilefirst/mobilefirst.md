@@ -184,3 +184,5 @@ Yelp. Their mobile products are used by just 7% of their total audience but are 
 
 [[img24.png]]
 
+#8. ONE EYEBALL AND ONE THUMB
+
