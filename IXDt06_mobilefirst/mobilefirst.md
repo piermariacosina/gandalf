@@ -192,7 +192,7 @@ Yelp. Their mobile products are used by just 7% of their total audience but are 
 
 * Responsive Typography
 
-One, the type can be resized for the device it's being viewed on or by the reader themselves. The other involves optimized line lengths to maintain readability. 
+> One, the type can be resized for the device it's being viewed on or by the reader themselves. The other involves optimized line lengths to maintain readability. 
 
 * Native device supported fonts * Proper font stack 
 * Tool for font stack
