@@ -170,27 +170,17 @@ Yelp. Their mobile products are used by just 7% of their total audience but are 
 
 `checkbox <input type="checkbox">`
  
- 
- 
 `radio button <input type="radio">`
- 
- 
  
 `password field <input type="password">`
  
- 
- 
 `dropdown lists <select><option>...`
- 
- 
- 
+
 `file picker </option></select><input type="file">`
- 
- 
  
 `submit button <input type="submit">`
  
- 
- 
 `plain text <input type="text">`
+
+[[img24.png]]
 
