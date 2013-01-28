@@ -241,5 +241,9 @@ Mobile 7 -> 10
 ***
 [Mobile planet google ](http://www.thinkwithgoogle.com/mobileplanet/en/)
 
+***
+[html5 responsive email template ](http://htmlemailboilerplate.com/)
+
+
 
 
