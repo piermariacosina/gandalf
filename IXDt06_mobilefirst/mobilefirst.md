@@ -235,3 +235,7 @@ Mobile 7 -> 10
 
 [img book ](http://www.abookapart.com/products/mobile-first)
 
+***
+[Responsive design book ](http://www.abookapart.com/products/responsive-web-design)
+
+
