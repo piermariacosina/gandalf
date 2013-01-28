@@ -37,6 +37,8 @@
 # MOBILE-ONLY ACCESS
 Others have shown that 25% of US internet users are mobile-only, meaning they never or rarely access the internet via laptop or desktop computers (source – Alistair Hill – On Device Research )
 
+[[img5.jpg]]
+
 
 
 
