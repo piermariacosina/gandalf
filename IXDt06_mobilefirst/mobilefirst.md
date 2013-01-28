@@ -133,6 +133,7 @@ The onus for stopping spam should not fall on your legitimate visitors. Making i
 #6. NUI AND NEW INTERACTIONS
 
 [[img14.png]]
+[[img15.png]]
 
 
 
