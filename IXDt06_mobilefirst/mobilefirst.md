@@ -79,6 +79,10 @@ Others have shown that 25% of US internet users are mobile-only, meaning they ne
 
 ## * **time**
 
+[[img8.png]]
+> grey computer 
+> green tablet and smartphones
+
 
 
 
