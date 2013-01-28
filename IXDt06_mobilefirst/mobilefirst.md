@@ -100,7 +100,7 @@ Others have shown that 25% of US internet users are mobile-only, meaning they ne
 * Edit/Create (urgent change/micro-tasking): I need to get some- thing done now that can’t wait.
 
 [[img9.jpg]]
-
+[[img10.jpg]]
 
 
 
