@@ -31,6 +31,7 @@
 > ### Global smartphone shipments surpassed global Pc shipments two years earlier than predicted. Studies have projected that mobile internet use will surpass traditional desktop internet use by 2014 (source: Mary Meeker – Morgan Stanley)
 
 
+
 ***
 
 # MOBILE-ONLY ACCESS
