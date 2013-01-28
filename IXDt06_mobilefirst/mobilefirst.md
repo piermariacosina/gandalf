@@ -135,5 +135,8 @@ The onus for stopping spam should not fall on your legitimate visitors. Making i
 [[img14.png]]
 [[img15.png]]
 
+#7. NATIVE APPS
+
+## “WEB LINKS DON’T OPEN APPS, THEY GO TO WEB PAGES” JASON GRIGSBY
 
 
