@@ -109,6 +109,7 @@ Others have shown that 25% of US internet users are mobile-only, meaning they ne
 #5. IT IS NOT ONLY ABOUT WEB, IS ABOUT CONTENT
 
 ##RESPONSIVE EMAILS
+> As further proof, consider that in November 2010 visitors to web-based email sites declined 6%, but visitors accessing email with their mobile devices grew by 36%. 
 
 
 
