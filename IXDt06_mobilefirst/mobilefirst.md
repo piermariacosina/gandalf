@@ -1,8 +1,8 @@
 #1-THE RWD
 
-## 25 maggio 2010
+##25 maggio 2010
 
-## “Responsive design is not about ‘designing for mobile’. But it’s not about ‘designing for the desktop’, either. Rather, it’s about adopting a more flexible, device-agnostic approach to designing for the web.” 
+> Responsive design is not about ‘designing for mobile’. But it’s not about ‘designing for the desktop’, either. Rather, it’s about adopting a more flexible, device-agnostic approach to designing for the web. 
 
 ##### John Allsopp 
 ##### “A Dao of Web Design”
