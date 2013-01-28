@@ -137,7 +137,21 @@ The onus for stopping spam should not fall on your legitimate visitors. Making i
 
 #7. NATIVE APPS
 
-##  “WEB LINKS DON’T OPEN APPS, </br> THEY GO TO WEB PAGES” 
+##  “WEB LINKS DON’T OPEN APPS, THEY GO TO WEB PAGES” 
 > JASON GRIGSBY
 
+
+* Access to the address book 
+* SMS 
+* camera 
+* audio inputs 
+* built-in sensors 
+* Run processes in the background 
+* Easily monetize through mobile app stores or in-app purchases. 
+
+### Core features like
+
+14% of Twitter’s members use the mobile web experience compared to 8% using the native iPhone app and 7% using the Blackberry native app. 
+Close to 19% of Facebook posts are created on the mobile web experience, while Facebook’s native iPhone, Android, and Blackberry apps only account for about 4% of posts each. 
+Yelp. Their mobile products are used by just 7% of their total audience but are responsible for 35% of all their searches.
 
