@@ -75,7 +75,7 @@ Others have shown that 25% of US internet users are mobile-only, meaning they ne
 ## * **why**
 
 [[img7.png]]
-
+> Source: At&t, Morgan Stanley research.
 
 
 
