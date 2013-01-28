@@ -121,6 +121,8 @@ Others have shown that 25% of US internet users are mobile-only, meaning they ne
 
 * Create the plain text email
 
+[[img13.jpg]]
+
 
 
 
