@@ -227,3 +227,7 @@ Mobile 7 -> 10
 > img website 1.5x 
 > Responsive design 2.5x
 
+## RESOURCES
+
+[Responsive email tutorial LevelUpTuts ](http://www.youtube.com/watch?v=eC_svDfv7CE)
+
