@@ -217,3 +217,13 @@ Mobile 7 -> 10
 
 [[img28.png]]
 
+* Better Media Support
+
+On August 29, 2012, the W3C released in draft the proposal HTML Responsive Images Extension, containing the specifications for the creation of a new html tags in order to overcome the limitations of and allow Web pages to see different images depending on factors such as resolution and density of the screen used by the user.
+
+* Cost estimation
+
+Fixed width website 1x 
+img website 1.5x 
+Responsive design 2.5x
+
