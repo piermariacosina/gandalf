@@ -25,5 +25,10 @@
 
 `@media handheld and (min-width: 20em),screen and (min-width: 20em) { … }`
 
+# 2. WE NO LONGER LIVE IN A SINGULAR DEVICE WORLD
+
+[[img4.png]] 
+
+
 
 
