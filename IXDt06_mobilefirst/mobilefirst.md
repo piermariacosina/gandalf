@@ -199,3 +199,18 @@ Yelp. Their mobile products are used by just 7% of their total audience but are 
 * Better Understanding of Device Capabilities
 [[img25.png]]
 
+## FLEXIBLE MEDIA, IMAGES AND VIDEOS
+
+Are responsive in HTML to the width and height of a screen. They're set at their max-width of 100% but this is hard to do right. We can either use CSS and scaling with the grid, or we can load the right resource for a particular device. The latter is a bit of a pain because even with swapping smaller images for larger ones, both resources will load and choke the performance of the page.
+
+* Sprite technique 
+Mobile sprite technique
+[[img26.png]]
+
+* More Variations in Layout
+> Susy and the responsive grid 7 to 16
+[[img27.png]]
+
+Mobile 7 -> 10
+[[img28.png]]
+
