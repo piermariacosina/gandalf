@@ -124,6 +124,9 @@ Others have shown that 25% of US internet users are mobile-only, meaning they ne
 [[img13.jpg]]
 > DIGITAL QR CODE
 
+## STOP USING CAPTCHA FOR SPAM CONTROL
+
+The onus for stopping spam should not fall on your legitimate visitors. Making it more difficult for real people to sign up for an account, request information, or otherwise fill out a form on your site is not worth the trade-off. The burden of spam control should fall squarely on the shoulders of the site owner, and not on the site visitor. Find a new way to control spam, preferably through better filtering and back-end management. This is not the first time a change like this has been proposed, but it’s time that it start being more widely adopted by the design community.
 
 
 
