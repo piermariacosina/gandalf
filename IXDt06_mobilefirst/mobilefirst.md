@@ -1,3 +1,6 @@
+
+***
+
 #1-THE RWD
 
 ##25 maggio 2010
@@ -25,14 +28,12 @@
 
 `@media handheld and (min-width: 20em),screen and (min-width: 20em) { … }`
 
+***
+
 # 2. WE NO LONGER LIVE IN A SINGULAR DEVICE WORLD
 
 [[img4.png]] 
 > ### Global smartphone shipments surpassed global Pc shipments two years earlier than predicted. Studies have projected that mobile internet use will surpass traditional desktop internet use by 2014 (source: Mary Meeker – Morgan Stanley)
-
-***
-
-***
 
 # MOBILE-ONLY ACCESS
 
