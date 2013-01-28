@@ -23,6 +23,7 @@
 3. Flexible images and media
 5. Media queries, a module from the CSS3 specification
 
+@media handheld and (min-width: 20em),screen and (min-width: 20em) { … }
 
 
 
