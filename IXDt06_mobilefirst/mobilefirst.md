@@ -12,5 +12,4 @@
 
 [[Screen Shot 2013-01-15 at 8.01.29 AM.png]]
 
-/Users/manuelacammilleri/Documents/gandalf/IXDt06_mobilefirst/Screen Shot 2013-01-15 at 8.01.29 AM.png
 
