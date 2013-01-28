@@ -108,7 +108,7 @@ Others have shown that 25% of US internet users are mobile-only, meaning they ne
 
 #5. IT IS NOT ONLY ABOUT WEB, IS ABOUT CONTENT
 
-## # RESPONSIVE EMAILS
+##RESPONSIVE EMAILS
 
 
 
