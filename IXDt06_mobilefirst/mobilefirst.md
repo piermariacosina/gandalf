@@ -205,6 +205,7 @@ Are responsive in HTML to the width and height of a screen. They're set at their
 
 * Sprite technique 
 Mobile sprite technique
+
 [[img26.png]]
 
 * More Variations in Layout
