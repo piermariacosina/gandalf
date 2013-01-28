@@ -19,8 +19,8 @@
 
 # ELEMENTS OF RESPONSIVE DESIGN
 
-1. 1. A flexible, grid-based layout
-3. 2. Flexible images and media
-5. 3. Media queries, a module from the CSS3 specification
+1. A flexible, grid-based layout
+3. Flexible images and media
+5. Media queries, a module from the CSS3 specification
 
 
