@@ -52,6 +52,22 @@ Others have shown that 25% of US internet users are mobile-only, meaning they ne
 
 * **when and where**
 
+84% use them at home
+
+80% use them during miscellaneous downtime throughout the day 
+
+74% use them while waiting in lines or waiting for appointments 
+
+69% use them while shopping
+
+64% use them at work 
+
+62% use them while watching TV (a different study claims 84% ) 
+
+And 47% use them during their commute
+
+
+
 
 
 
