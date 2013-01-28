@@ -196,4 +196,6 @@ Yelp. Their mobile products are used by just 7% of their total audience but are 
 
 * Native device supported fonts * Proper font stack 
 * Tool for font stack
+* Better Understanding of Device Capabilities
+[[img25.png]]
 
