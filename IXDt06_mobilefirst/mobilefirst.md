@@ -244,6 +244,10 @@ Mobile 7 -> 10
 ***
 [html5 responsive email template ](http://htmlemailboilerplate.com/)
 
+***
+[html5 responsive template for websites ](http://www.initializr.com/)
+
+
 
 
 
