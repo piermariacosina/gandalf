@@ -52,8 +52,6 @@ Others have shown that 25% of US internet users are mobile-only, meaning they ne
 
 * **when and where**
 
-***
-
 
 * 84% use them at home
 
@@ -73,7 +71,7 @@ Others have shown that 25% of US internet users are mobile-only, meaning they ne
 </br>
 * **why**
 
-***
+
 
 
 
