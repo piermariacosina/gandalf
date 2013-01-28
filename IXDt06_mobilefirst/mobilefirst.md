@@ -45,6 +45,8 @@ Others have shown that 25% of US internet users are mobile-only, meaning they ne
 
 * And it’s only going to get bigger. While half a billion people accessed the mobile internet worldwide in 2009, heavy mobile data users will triple to one billion by 2013 
 
+> THE HURRIED BUSINESSMAN ON THE STREET
+# 3. 500% ONLINE
 
 
 
