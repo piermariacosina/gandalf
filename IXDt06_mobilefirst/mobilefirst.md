@@ -101,6 +101,8 @@ Others have shown that 25% of US internet users are mobile-only, meaning they ne
 
 [[img9.jpg]]
 [[img10.jpg]]
+[[img11.png]]
+[[img12.png]]
 
 
 
