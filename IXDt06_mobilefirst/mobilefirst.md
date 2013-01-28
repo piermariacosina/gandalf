@@ -39,6 +39,12 @@ Others have shown that 25% of US internet users are mobile-only, meaning they ne
 
 [[img5.jpg]]
 
+* That means more people will be using mobile devices to access the web than those getting online with desktops and laptops. This transition has already started. Home usage of personal computers in 2010 was down 20% from 2008 in the United States. The culprit? Smartphones and tablets gobbling up our time online. 
+
+* Traffic to mobile websites in 2010 grew 600% after tripling between 2009 and 2010 
+
+* And it’s only going to get bigger. While half a billion people accessed the mobile internet worldwide in 2009, heavy mobile data users will triple to one billion by 2013 
+
 
 
 
