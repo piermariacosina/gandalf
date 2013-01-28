@@ -253,6 +253,10 @@ Mobile 7 -> 10
 ***
 [media queries collection ](http://mediaqueri.es/)
 
+***
+[w3c media queries](http://www.w3.org/TR/css3-mediaqueries/)
+
+
 
 
 
