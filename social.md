@@ -30,8 +30,8 @@ http://ausgetrock.net/en/blog/nico/facebook-pages-timeline-template-photoshop
  >  STRATEGY OF CONTENT FOR SHIFT DOERS TO ARCADIA 
 
 # ARCADIA
-## Post su Arcadia - Eventi, Bestiarium
-## Sharable content in home ( fb, twitter, g plus )
+###  Post su Arcadia - Eventi, Bestiarium
+###  Sharable content in home ( fb, twitter, g plus )
 
 
 ***
