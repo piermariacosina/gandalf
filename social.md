@@ -20,12 +20,15 @@
 
 ***
 
-### Creazione pagina the doers su google plus
+### Creazione pagina the doers e Arcadia su google plus
 http://ausgetrock.net/en/blog/nico/google-plus-profile-template
 
 ### Creazione pagina facebook di Arcadia
 http://ausgetrock.net/en/blog/nico/facebook-pages-timeline-template-photoshop
 
-## Bring people from the Doers to Arcadia
+## Bring people from the Doers ( facebook and the doers project ) to Arcadia
+ >  Strategy of content for shift Doers to Arcadia 
+
+## Post su Arcadia - Eventi, Bestiarium
 
 
