@@ -21,5 +21,6 @@
 ***
 
 ### Creazione pagina the doers su google plus
+http://ausgetrock.net/en/blog/nico/google-plus-profile-template
 
 
