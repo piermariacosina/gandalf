@@ -34,4 +34,16 @@ http://ausgetrock.net/en/blog/nico/facebook-pages-timeline-template-photoshop
 ## Sharable content in home ( fb, twitter, g plus )
 
 
+# CONTENT FOR NEWSLETTER
+## gennaio / febbraio 2013:
+
+* Evento IXDtuesday n.6
+* Arcadia project - eventi / bestiarium
+
+
+
+
+
+
+
 
