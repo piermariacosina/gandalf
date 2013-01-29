@@ -17,3 +17,9 @@
 
 * Promozione evento
 
+
+***
+
+### Creazione pagina the doers su google plus
+
+
