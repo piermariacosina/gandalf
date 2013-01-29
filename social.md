@@ -36,7 +36,6 @@ http://ausgetrock.net/en/blog/nico/facebook-pages-timeline-template-photoshop
 
 ***
 
-***
 
 
 # CONTENT FOR NEWSLETTER
