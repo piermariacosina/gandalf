@@ -44,7 +44,9 @@ http://ausgetrock.net/en/blog/nico/facebook-pages-timeline-template-photoshop
 ## gennaio / febbraio 2013:
 
 * Evento IXDtuesday n.6
-* Arcadia project - eventi / bestiarium
+* Arcadia project 
+* News about Arcadia Project - Eventi, Bestiarium 
+
 
 
 
