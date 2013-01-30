@@ -31,6 +31,7 @@ http://ausgetrock.net/en/blog/nico/facebook-pages-timeline-template-photoshop
 ### Link a eventi su Arcadia
 ### Link a persone nel bestiarium, foto - bio - link
 
+
 # ARCADIA
 ###  Post su Arcadia - Eventi, Bestiarium
 ###  Sharable content in home ( fb, twitter, g plus )
@@ -48,6 +49,9 @@ http://ausgetrock.net/en/blog/nico/facebook-pages-timeline-template-photoshop
 * Evento IXDtuesday n.6
 * Arcadia project 
 * News about Arcadia Project - Eventi, Bestiarium, Pranzi -
+* Gurda il calendario pranzi - richiedi un invito a pranzo!
+
+
 
 
 
