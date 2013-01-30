@@ -28,6 +28,8 @@ http://ausgetrock.net/en/blog/nico/facebook-pages-timeline-template-photoshop
 
 ## Bring people from the Doers ( facebook and the doers project ) to Arcadia
  >  STRATEGY OF CONTENT FOR SHIFT DOERS TO ARCADIA 
+### Link a eventi su Arcadia
+### Link a persone nel bestiarium, foto - bio - link
 
 # ARCADIA
 ###  Post su Arcadia - Eventi, Bestiarium
