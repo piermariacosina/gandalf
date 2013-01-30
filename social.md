@@ -45,7 +45,10 @@ http://ausgetrock.net/en/blog/nico/facebook-pages-timeline-template-photoshop
 
 * Evento IXDtuesday n.6
 * Arcadia project 
-* News about Arcadia Project - Eventi, Bestiarium 
+* News about Arcadia Project - Eventi, Bestiarium, Pranzi -
+
+
+
 
 
 
