@@ -16,3 +16,16 @@
 ### * Contact
 
 [[newsletter.jpg]]
+
+
+***
+
+## Newsletter:
+
+Evento - una volta al mese - per pubblicizzare IxDTuesday.
+
+Podcast dell'evento: in fondo al newsletter evento - link al sito - iscriviti al podcast.
+
+Newsletter di The Doers - update progetti - progetti che seguiamo- news dei progetti
+
+
