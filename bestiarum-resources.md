@@ -1,4 +1,4 @@
 ***
 
 
-[[ScreenClip_1.png]]
+[ScreenClip_1.png]
