@@ -46,9 +46,9 @@ http://ausgetrock.net/en/blog/nico/facebook-pages-timeline-template-photoshop
 # CONTENT FOR NEWSLETTER
 ## gennaio / febbraio 2013:
 
-* Evento IXDtuesday n.6
+* Evento IXDtuesday 
 * Arcadia project 
-* News about Arcadia Project - Eventi, Bestiarium, Pranzi -
+* News about Arcadia Project - Eventi, Bestiarum, Pranzi -
 * Gurda il calendario pranzi - richiedi un invito a pranzo!
 
 
