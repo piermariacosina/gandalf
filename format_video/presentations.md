@@ -15,4 +15,4 @@ http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market.html
 
 * ### Camera in the middle
 
-Accoglienza all'ingresso - foglio di raccolta dati ( nome e email ) , eventuali biglietti da visita, foto gruppo su sfondo con logo.
+* ### Accoglienza all'ingresso - foglio di raccolta dati ( nome e email ) , eventuali biglietti da visita, foto gruppo su sfondo con logo.
