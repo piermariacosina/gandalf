@@ -74,3 +74,9 @@ Foto mezzobusto da solo (sfondo neutro)/ Foto assieme a qualcuno/ Foto ridicola 
 ***
 
 [[ScreenClip_1.png]]
+[[ScreenClip_2.png]]
+[[ScreenClip_3.png]]
+[[ScreenClip_4.png]]
+[[ScreenClip_5.png]]
+[[ScreenClip_6.png]]
+[[ScreenClip_7.png]]
