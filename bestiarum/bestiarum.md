@@ -50,6 +50,9 @@ Foto mezzobusto da solo (sfondo neutro)/ Foto assieme a qualcuno/ Foto ridicola 
 
 ***
 
+***
+
+
 
 
 
