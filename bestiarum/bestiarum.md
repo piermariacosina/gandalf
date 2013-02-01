@@ -50,18 +50,19 @@ Foto mezzobusto da solo (sfondo neutro)/ Foto assieme a qualcuno/ Foto ridicola 
 
 ***
 
-A man flying in a hot air balloon suddenly realizes he’s lost. He reduces height and spots a man down below. He lowers the balloon further and shouts to get directions,  "Excuse me, can you tell me where I am?"
 
-The man below says:  "Yes. You're in a hot air balloon, hovering 30 feet above this field."
+> A man flying in a hot air balloon suddenly realizes he’s lost. He reduces height and spots a man down below. He lowers the balloon further and shouts to get directions,  "Excuse me, can you tell me where I am?"
 
-"You must work in Information Technology,"  says the balloonist.
+`The man below says:  "Yes. You're in a hot air balloon, hovering 30 feet above this field."`
 
-"I do"  replies the man.  "How did you know?"
+`"You must work in Information Technology,"  says the balloonist.`
 
-"Well,"  says the balloonist,  "everything you have told me is technically correct, but It's of no use to anyone."
+`"I do"  replies the man.  "How did you know?"`
 
-The man below replies,  "You must work in management."
+`"Well,"  says the balloonist,  "everything you have told me is technically correct, but It's of no use to anyone."`
 
-"I do,"  replies the balloonist,  "But how'd you know?"*
+`The man below replies,  "You must work in management."`
 
-"Well", says the man,  "you don’t know where you are or where you’re going, but you expect me to be able to help. You’re in the same position you were before we met, but now it’s my fault."
+`"I do,"  replies the balloonist,  "But how'd you know?"*`
+
+`"Well", says the man,  "you don’t know where you are or where you’re going, but you expect me to be able to help. You’re in the same position you were before we met, but now it’s my fault."`
