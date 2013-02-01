@@ -20,12 +20,32 @@
 
 ***
 
-## Newsletter:
+## Newsletter evento:
 
-Evento - una volta al mese - per pubblicizzare IxDTuesday.
+* Evento - una volta al mese - per pubblicizzare IxDTuesday.
 
-Podcast dell'evento: in fondo al newsletter evento - link al sito - iscriviti al podcast.
+* Podcast dell'evento: in fondo al newsletter evento - link al sito - iscriviti al podcast.
 
-Newsletter di The Doers - update progetti - progetti che seguiamo- news dei progetti
+> Tempo: 1 volta al mese
+
+## Newsletter The doers:
+
+* Newsletter di The Doers - update progetti - progetti che seguiamo- news dei progettiNewsletter - Nuovi Tools 
+( una volta al mese 2 tipologie: una riferita a un progetto singolo ritenuto interessante e una mista su vari progetti /news ecc )
+
+> Tempo: 1 volta al mese
+
+
+## Newsletter Arcadia:
+
+* Eventi / workshop
+
+* Scopri le nuove bestie rare ( news bestiarum )
+
+* Invito a pranzo
+
+
+
+
 
 
