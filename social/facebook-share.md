@@ -15,7 +15,7 @@ SHARE THIS PAGE!! : )
 SITO WEB: http://thedoersproject.com
 
 ***
-# WIREFRAME FACEBOOK SHARE
+
 [[facebook_share_arcadia.jpg]]
 ## * TEXT:
 
