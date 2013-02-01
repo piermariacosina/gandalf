@@ -22,7 +22,7 @@
 
 ## Newsletter evento:
 
-* Evento - una volta al mese - per pubblicizzare IxDTuesday.
+* Evento - per pubblicizzare IxDTuesday.
 
 * Podcast dell'evento: in fondo al newsletter evento - link al sito - iscriviti al podcast.
 
