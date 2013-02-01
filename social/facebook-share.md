@@ -19,5 +19,12 @@ SITO WEB: http://thedoersproject.com
 [[facebook_share_arcadia.jpg]]
 ## * TEXT:
 
-TITLE: The doers 
+TITLE: Arcadia
 ***
+
+You hacker, whatever beast you look like — designerd, developeneur, investivist, bootstrapper, a foundreamer — 
+you are an arcadian.
+
+SHARE THIS PAGE!! : )
+
+SITO WEB: http:/arcadiaproject.github.com
