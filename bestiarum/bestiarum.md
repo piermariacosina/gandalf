@@ -69,3 +69,8 @@ Foto mezzobusto da solo (sfondo neutro)/ Foto assieme a qualcuno/ Foto ridicola 
 > "I do,"  replies the balloonist,  "But how'd you know?"*
 
 > "Well", says the man,  "you don’t know where you are or where you’re going, but you expect me to be able to help. You’re in the same position you were before we met, but now it’s my fault."
+
+
+***
+
+[[ScreenClip_1.png]]
