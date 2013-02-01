@@ -8,6 +8,8 @@
 [[img2.png]]
 [[img3.png]]
 
+http://www.ted.com/talks/wingham_rowan_a_new_kind_of_job_market.html
+
 
 * ### Presentation max 1 hour
 
