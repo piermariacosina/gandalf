@@ -8,3 +8,7 @@
 [[img2.png]]
 [[img3.png]]
 
+
+### Presentation max 1 hour
+
+### Camera in the middle
