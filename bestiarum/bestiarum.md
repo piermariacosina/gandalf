@@ -26,23 +26,23 @@ Foto mezzobusto da solo (sfondo neutro)/ Foto assieme a qualcuno/ Foto ridicola 
 * Descrizione dell'incontro: Pinco Pallino è un di che vorrebbe/gli piace/ha deciso/è interessato/ è stato/ha lavorato/è .  Abbiamo deciso di incontrarlo perchè
 
 
-FORMAT DOMANDE nel caso l'interazione sia scarsa o ci siano delle cose in specifico che vorremmo sapere:
+# FORMAT DOMANDE nel caso l'interazione sia scarsa o ci siano delle cose in specifico che vorremmo sapere:
 
-Nome
-Cognome
-Lavoro
-Da dove viene (città)
-Perchè hai scelto questa carriera? Come sei finito a fare questo lavoro?  
-Il lavoro dei tuoi sogni...
-Che interessi hai?
-Ti interessa il mondo delle start-up? Hai esperienza nel campo? Che idea ti sei fatto?
-Cosa definisce una start-up di successo?
-Cosa ci vuole per essere uno start-upper?
-Spiegaci la tua start-up!
-Hai mai avuto delle idee che sarebbero potute diventare l'inizio di un business? Cosa ti ha fermato?
-L'idea che più ti è piaciuto nell'ultimo anno (invenzioni, start-up, servizi, agevolazioni nel sistema...qualsiasi cosa che ti ha entusiasmato in ques'ultimo anno)
-Come vedi Torino/l'Italia tra 5 anni?
-Da cosa trai inspirazione?
+1. Nome
+2. Cognome
+3. Lavoro
+4. Da dove viene (città)
+5. Perchè hai scelto questa carriera? Come sei finito a fare questo lavoro?  
+6. Il lavoro dei tuoi sogni...
+7. Che interessi hai?
+8. Ti interessa il mondo delle start-up? Hai esperienza nel campo? Che idea ti sei fatto?
+9. Cosa definisce una start-up di successo?
+10. Cosa ci vuole per essere uno start-upper?
+11. Spiegaci la tua start-up!
+12. Hai mai avuto delle idee che sarebbero potute diventare l'inizio di un business? Cosa ti ha fermato?
+13. L'idea che più ti è piaciuto nell'ultimo anno (invenzioni, start-up, servizi, agevolazioni nel sistema...qualsiasi cosa che ti ha entusiasmato in ques'ultimo anno)
+14. Come vedi Torino/l'Italia tra 5 anni?
+15. Da cosa trai inspirazione?
 
 
 * Links (Linkein/Codewall/Twitter/Blog/Website/etc)
