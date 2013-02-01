@@ -6,7 +6,7 @@
 [[facebook_share.jpg]]
 ## * TEXT:
 
-TITLE: the doers
+TITLE: The doers </br>
 We are doers. Internet enthusiasts, passionate about design&coding, eager learners and bold explorers.
 We love start-ups.
 SHARE THIS PAGE!! : )
