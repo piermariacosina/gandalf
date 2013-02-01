@@ -5,3 +5,10 @@
 # WIREFRAME FACEBOOK SHARE
 [[facebook_share.jpg]]
 ## * TEXT:
+
+TITLE: the doers
+We are doers. Internet enthusiasts, passionate about design&coding, eager learners and bold explorers.
+We love start-ups.
+SHARE THIS PAGE!! : )
+
+SITO WEB: http://thedoersproject.com
