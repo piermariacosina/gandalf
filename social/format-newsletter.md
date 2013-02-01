@@ -31,7 +31,7 @@
 ## Newsletter The doers:
 
 * Newsletter di The Doers - update progetti - progetti che seguiamo- news dei progettiNewsletter - Nuovi Tools 
-( una volta al mese 2 tipologie: una riferita a un progetto singolo ritenuto interessante e una mista su vari progetti /news ecc )
+( 2 tipologie: una riferita a un progetto singolo ritenuto interessante e una mista su vari progetti /news ecc )
 
 > Tempo: 1 volta al mese
 
