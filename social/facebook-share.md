@@ -3,7 +3,7 @@
 
 ***
 # WIREFRAME FACEBOOK SHARE
-[[facebook_share.jpg]]
+[[facebook_share_thedoers.jpg]]
 ## * TEXT:
 
 TITLE: The doers 
@@ -14,3 +14,11 @@ We love start-ups.
 SHARE THIS PAGE!! : )
 
 SITO WEB: http://thedoersproject.com
+
+***
+# WIREFRAME FACEBOOK SHARE
+[[facebook_share_arcadia.jpg]]
+## * TEXT:
+
+TITLE: The doers 
+***
