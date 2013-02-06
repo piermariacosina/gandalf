@@ -16,29 +16,14 @@
 # WHY?
 
 `Just SEO`
-`1`
-`2`
-`3`
-`4`
-`5`
-`6`
-`7`
 `+ visits`
 `+ traffic`
 `+ users`
 `+ reviews`
 `+ data`
 `+ $`
-`Just UX`
-`1`
-`2`
-`3`
-`4`
-`5`
-`6`
-`7`
-`8`
-`9`
+
+Just UX
 `+ recurring visits`
 `+ conversion rate`
 `+ interactions`
@@ -47,6 +32,4 @@
 `+ community activity`
 `+ value`
 `+ $`
-
-
 
