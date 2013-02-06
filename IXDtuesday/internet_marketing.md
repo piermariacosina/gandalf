@@ -11,11 +11,10 @@
 
 [[linkjuice.png]]
 
-***
 ### SEO AND UX
 # WHY?
 
-`Just SEO`
+Just SEO
 `+ visits`
 `+ traffic`
 `+ users`
