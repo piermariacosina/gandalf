@@ -11,3 +11,5 @@
 ### SEO AND UX - A SYNERGIC APPROACH
 # HOW DOES GOOGLE WORK?
 
+[[linkjuice.png]]
+
