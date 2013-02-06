@@ -106,6 +106,7 @@ Explored game mechanics: SAPS
 `Power`
 `Stuff`
 
+***
 Status
 
 X factor
