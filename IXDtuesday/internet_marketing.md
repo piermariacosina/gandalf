@@ -1,5 +1,5 @@
 [[_TOC_]]
 ***
 
-[[photo2.jpeg]]
+[[photo2.png]]
 
