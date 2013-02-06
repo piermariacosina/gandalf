@@ -107,7 +107,7 @@ Explored game mechanics: SAPS
 `Stuff`
 
 ***
-Status: ###X factor
+###Status: X factor
 
 [[xfactor-multiplier.png]]
 
