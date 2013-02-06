@@ -1,6 +1,8 @@
 [[_TOC_]]
 ***
 
+[[photo1.jpeg]]
+
 #1-THE RWD
 
 ##25 maggio 2010
