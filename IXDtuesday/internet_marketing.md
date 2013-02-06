@@ -5,6 +5,9 @@
 
 ## 13.11.2012 SEO and UX Con Claudio petraruolo
 
+***
+
+
 ### SEO AND UX - A SYNERGIC APPROACH
 # HOW DOES GOOGLE WORK?
 
