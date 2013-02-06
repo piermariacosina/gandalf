@@ -10,7 +10,6 @@
 # HOW DOES GOOGLE WORK?
 
 [[linkjuice.png]]
-
 ### SEO AND UX
 # WHY?
 
