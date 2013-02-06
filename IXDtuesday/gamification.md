@@ -111,3 +111,128 @@ Explored game mechanics: SAPS
 
 [[xfactor-multiplier.png]]
 
+###Access: Categorization by size
+
+[[4.png]]
+
+From local to global
+[[2.png]]
+
+### Power: Red Button
+[[13.png]]
+
+### Stuff: Step by Step
+[[15df.png]]
+
+
+***
+
+### EXTERNAL FEEDBACKS - EXAMPLE
+# CLASSICS
+
+### The boyscout and the army
+[[nike+.png]]
+[[nike+1.png]]
+[[nike+2.png]]
+[[nike+3.png]]
+[[nike+3-1.png]]
+
+### Precius metal market
+
+[[linkedin.png]]
+[[linkedin2-1.png]]
+[[linkedin4.png]]
+
+### Stage of mastery
+[[angrybirds-1.png]]
+
+***
+
+### GAME BEHAVIOURS AND PERSONA
+# KILL THE SOCIALIZERS
+
+Bartle's player types
+`Killers (20%)`
+`Socializers (80%)`
+`Explorers (50%)`
+`Achievers (40%)`
+
+### Example! SoccerSquare
+
+A game with improvable gamification (before redesign!)
+[[bartlesoccer1.png]]
+
+### After redesign
+[[bartlesoccer2.png]]
+
+[[soccersquare.png]]
+
+***
+
+### EXTERNAL FEEDBACKS AND ...
+# BUSINESS MODEL
+
+[[beintoo.png]]
+[[beintooBM.png]]
+Gamification based advertising model
+
+***
+### FROM EXTERNAL TO INTERNAL TRIGGERS
+# ANSQUARE!
+
+[[ansquare.png]]
+
+
+***
+### FROM EXTERNAL TO INTERNAL TRIGGERS
+# PINTEREST?
+
+[[pinterest-1.png]]
+
+***
+
+### INTERNAL TRIGGERS
+# PINTEREST IS LIKE TETRIS!
+
+Pinterest vs tetris
+
+`No win`
+ 
+`Infinite flow`
+ 
+`Mosaic layout`
+ 
+`Infinite scrolling`
+ 
+`Social discovery`
+ 
+`Serendipity`
+
+[[tetris.png]]
+
+***
+### INTERNAL TRIGGERS
+# UNCONVETIONAL VIEW
+
+> Would you prefer a retweet or a Foursquare badge?
+[[twitterretweet.png]]
+[[facebookcomments.png]]
+[[facebooklikes.png]]
+
+***
+Contatti: fabrizio@mirabito.it
+we@thedoersproject.com
+
+TWITTER
+@fmirabito
+
+@doersproject
+
+WEB
+ansquare.com
+
+thedoersproject.com
+
+
+
+
