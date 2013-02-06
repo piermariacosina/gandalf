@@ -1,7 +1,7 @@
 [[_TOC_]]
 ***
 
-[[photo1.jpeg]]
+[[mobilefirst.png]]
 
 #1-THE RWD
 
