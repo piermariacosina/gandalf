@@ -95,4 +95,20 @@ External
 `....`
 
 
+***
+### EXTERNAL FEEDBACKS - EXAMPLE
+# CROWDFUNDING PLATFORM FOR SOCIAL PROJECTS
+
+Explored game mechanics: SAPS
+
+`Status`
+`Access`
+`Power`
+`Stuff`
+
+Status
+
+X factor
+
+[[xfactor-multiplier.png]]
 
