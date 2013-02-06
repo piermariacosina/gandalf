@@ -1,4 +1,3 @@
-
 [[photo2.png]]
 
 ## 13.11.2012 SEO and UX Con Claudio petraruolo
@@ -145,6 +144,12 @@ Pay attention to
 `$ performances' optimizzion`
 
 [[vanilla.jpeg]]
+[[google1.png]]
+[[google2.png]]
+[[google3.png]]
+[[google4.png]]
+[[google5.png]]
+[[google6.png]]
 [[google10.png]]
 [[google11.png]]
 
