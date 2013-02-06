@@ -96,7 +96,64 @@ Just UX
 `@ Personal finance;`
 `@ Hand writing;`
 
+[[niche1.png]]
+[[ux3.png]]
+[[svpply5.png]]
+[[svpply6.png]]
+[[fancy3.png]]
+[[moneywiz9.png]]
+[[hand2.png]]
+[[clear8.png]]
 
 
+***
+
+### MYTH 4 - TALK WITH YOUR CUSTOMERS
+# ADOPT A CONSISTENT STRATEGY
+
+Don't care about them
+`@ Clear;`
+`@ MoneyWiz;`
+Take advantage of them for marketing tactics
+`# Samsung;`
+
+## User feedback are key if filtered with a given methodology and integrated into a solid development strategy
+
+[[clear9.png]]
+[[clear1.png]]
+[[clear2.png]]
+[[clear3.png]]
+[[clear4.png]]
+[[samsung2.jpeg]]
+[[moneywiz8.png]]
+
+
+***
+### MYTH 5 - CODE HAS NO TASTE
+# VANILLA CODE IS TASTY!
+
+Pay attention to
+`$ robot.txt`
+`$ webmaster tool`
+`$ submit to index`
+`$ sitemap xml`
+`$ tag description`
+
+..and to
+`$ h1 title`
+`$ pretty url`
+`$ alt tag images and video`
+`$ flat information architecture`
+`$ performances' optimizzion`
+
+[[vanilla.jpeg]]
+[[google10.png]]
+[[google11.png]]
+
+
+## Contact
+
+claudio.petrarulo@gmail.com
+we@thedoersproject.com
 
 
