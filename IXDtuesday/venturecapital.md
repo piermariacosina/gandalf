@@ -37,3 +37,17 @@
 # Impact on	the real economy of VC investing
 
 ## A recent survey on a selected number	 of VC-­‐backed french companies in the digital industry has proved that:	
+
+* VC investing generates employment growth	(not true for the rest of the economy!!) and better quality (full time vs temporary contracts) than SMEs on average
+* VC backed companies hire	 younger people	 on average (31 years) and almost 13% of hirings	 are straight out	of college		
+* VC backed companies invest more in	R&D	(2 Emes average SME) and	are more internationally oriented	(40%	of turnover)	
+
+# Venture Capital	champions
+
+Europe
+
+[[venture2.png]]	
+
+	
+  	
+  	
