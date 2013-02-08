@@ -60,6 +60,19 @@
 
 [[venture4.png]]
 
+# Our golden rules (investment criteria)
+1. The entrepreneur has	to prove strong leadership,	vision and	passion	
+2. The market you are adressing has to be huge	
+3. Look at profitability!
+4. The right team on board (need people to push, hire slow and fire fast)
+
+# How does a Venture Capital protects its minority	position ?
+### VCs typically take a minority stake in the company. Standard protection tools in the industry	are:
+
+
+  	
+
+  	
 
 	
   	
