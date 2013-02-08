@@ -56,7 +56,7 @@
 # How does VC investing work?	
 
 ***
-## Venture Capitalist investment game
+### Venture Capitalist investment game
 
 [[venture4.png]]
 
