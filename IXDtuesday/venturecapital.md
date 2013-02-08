@@ -15,4 +15,9 @@
 
 ### Venture Capital (€4.9bn, 2011)	
 
-•  Cashin to finance growth	
+* Cashin to finance growth	
+* Minority shareholders next to the	 entrepreneur	
+* Highly innovative industries
+* Young companies, losing money	with ambitious plans		
+* Pure equity risk
+* Expected return above 10x	 over	5-­‐7 years	time	horizon	
