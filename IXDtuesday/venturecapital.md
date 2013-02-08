@@ -33,3 +33,5 @@
 # Size of the	European VC market	(volume of	investment)	
 
 [[venture1.png]]
+
+# Impact on	the real economy of VC investing
