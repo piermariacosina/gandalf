@@ -29,3 +29,5 @@
 * Consolidated and profitable companies
 * Structured finance = lever is one	of the key	
 * Expected return	 2­‐3x	over 3-­5 years time horizon		
+
+# Size of the	European VC market	(volume of	investment)	
