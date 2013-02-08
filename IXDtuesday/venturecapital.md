@@ -44,9 +44,22 @@
 
 # Venture Capital	champions
 
-Europe
+# Europe
 
 [[venture2.png]]	
+
+# USA
+
+[[venture3.png]]	
+
+***
+# How does VC investing work?	
+
+***
+# Venture Capitalist investment game
+
+[[venture4.png]]
+
 
 	
   	
