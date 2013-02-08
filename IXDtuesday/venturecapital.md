@@ -20,4 +20,4 @@
 * Highly innovative industries
 * Young companies, losing money	with ambitious plans		
 * Pure equity risk
-* Expected return above 10x	 over	5-­‐7 years	time	horizon	
+* Expected return above 10x      over	5-­7 years	time	horizon	
