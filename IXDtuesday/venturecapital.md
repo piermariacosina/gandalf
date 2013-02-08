@@ -21,3 +21,11 @@
 * Young companies, losing money	with ambitious plans		
 * Pure equity risk
 * Expected return above 10x      over	5-­7 years	time	horizon	
+
+### Private Equity (LBO,capdev) (€34.9bn,	 2011)	
+* Cashout to	 buy	shares from existing	shareholders	
+* Majority shareholder with usually	 new	management team	
+* Traditional industries
+* Consolidated and profitable companies
+* Structured finance = lever is one	of the key	
+* Expected return	 2­‐3x	over 3-­5 years time horizon		
