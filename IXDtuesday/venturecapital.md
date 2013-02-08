@@ -13,5 +13,6 @@
 
 ##Venture Capital is a small part of Private Equity	
 
-### Venture Capital	
-### (€4.9bn, 2011)	
+### Venture Capital (€4.9bn, 2011)	
+
+* •  Cashin to finance growth	
