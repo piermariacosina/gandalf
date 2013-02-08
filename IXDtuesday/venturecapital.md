@@ -31,3 +31,5 @@
 * Expected return	 2­‐3x	over 3-­5 years time horizon		
 
 # Size of the	European VC market	(volume of	investment)	
+
+[[venture1.png]]
