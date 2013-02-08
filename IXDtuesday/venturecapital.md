@@ -11,5 +11,7 @@
 ***
 # Introduction to venture capital
 
-##Venture Capital is a small part of	 Private Equity	
-  	
+##Venture Capital is a small part of Private Equity	
+
+> Venture Capital	
+> (€4.9bn, 2011)	
