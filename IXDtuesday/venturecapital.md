@@ -69,7 +69,34 @@
 # How does a Venture Capital protects its minority	position ?
 ### VCs typically take a minority stake in the company. Standard protection tools in the industry	are:
 
+* Preferred versus ordinary shares
+* Liquidation preference: participating and non-participating
+* Anti-­dilution clauses: full ratchet	or weighted average
+* Corporate governance rules	
 
+# How does	a VC	make sure	that its targets are reached?	
+### VC exit target is	to be negotiated	 when the deal is closed
+
+* Exit Emeframe	
+* Tag along	
+* Drag along	
+### Other standard characteristics of a VC deal:
+* Internal investors partecipation
+* Preferred dividends
+* Rights in future rounds	
+* Rights of first refusal	
+* Information rights	
+* Management salary and commitment
+
+# How a fund is structured	
+
+### Typical 100 M fund 
+### 20 M	mgt fee, 5­‐10 M	extra reserves, implies 75-­80M invested max
+### 20 investments,	2­‐4M	per deal initial investment, 4M average over	 severall rounds	
+### Hurdle rate 7%,	6 years average	holding period	=> “positive return” for the	team	 means above 150 M	
+
+### Target IRR of fund investors is 10-­15% net of carried interest    => happy investors needs total return above approx. 225 M	
+* ### below 2x, we actually	 “lose money”, 3x is a positive contributor to fund objective, need 5x and 10x to compensate for bad investments
   	
 
   	
