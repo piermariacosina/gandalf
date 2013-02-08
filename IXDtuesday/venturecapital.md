@@ -97,9 +97,60 @@
 
 ### Target IRR of fund investors is 10-­15% net of carried interest    => happy investors needs total return above approx. 225 M	
 * ### below 2x, we actually	 “lose money”, 3x is a positive contributor to fund objective, need 5x and 10x to compensate for bad investments
+* ### Opportunity cost per	deal is at least 1,2M although 5M could be argued
+### Opportunity costs weighs on returns more on smaller deals
+
+
+# How an early stage fund makes money
+
+* 20 deals:	
+* 1 Blockbuster, 20x=80 M	
+* 1 star, 10x	=40 M	
+* 2 successes, 5x=2x20M=40 M	
+* 4 average,	 2­‐3X	=4x10M=40 M	
+* 6 bad investments:0,5-­2x=	20 M	
+* 6 write offs	
+
+* Total	: 220	 M, net IRR to investors 12%, carried interest 20‐25 M (for 12 years’ worth of	 work)	
+* ### On any given investment, 10x must be possible
+* In a successful fund, fund managers make less money than successful entrepreneurs, which is normal,	similar to average entrepreneur	
+* NB:	FCPI/ISF funds are different	 
+
+***
+
+What	 is the real	average holding time in Europe (1)?	
+[[venture5.png]]
+
+***
+# How to raise VC	 money
+***
+# How to approach a Venture	 capital fund
+
+* Tell us who you are (management team CV	and track record)	
+* Tell us what you want	 to do (value proposition to	customer)	and how (we can be your beta testers!)	
+* Sizing of the market	
+* Is there any IP protection envisageable	
+* Ambitious but credible financials	 with	validated hypothesis	
+* Financial need and existig cap table	
+
+# Few tips prior to	 your	meeting	
+
+* Short	&clear (make your investor deck short & clear)	
+* Get challenged (train yourself)	
+* Qualified endorsement (get opinion leaders on board since the beginning)	
+* Standard venture capital terms (be familiar with the VC	 legal	 jargon)	
+* Pick the right VC firm and the right person to talk to	
+* Feedback & next steps (ask for feedback and next steps at the end of your	 meeting)	
+
+# Common myths	
+
+* NDAs	
+* Avoid DCF & IRR estimates	
+  	
+  	
+  	
   	
 
-  	
 
 	
   	
