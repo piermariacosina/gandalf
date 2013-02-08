@@ -15,4 +15,4 @@
 
 ### Venture Capital (€4.9bn, 2011)	
 
-* •  Cashin to finance growth	
+•  Cashin to finance growth	
