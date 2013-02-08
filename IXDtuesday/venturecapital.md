@@ -35,3 +35,5 @@
 [[venture1.png]]
 
 # Impact on	the real economy of VC investing
+
+## A recent survey on a selected number	 of VC-­‐backed french companies in the digital industry has proved that:	
