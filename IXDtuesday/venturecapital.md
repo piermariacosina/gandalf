@@ -88,19 +88,6 @@
 * Information rights	
 * Management salary and commitment
 
-# How a fund is structured	
-
-### Typical 100 M fund 
-### 20 M	mgt fee, 5­‐10 M	extra reserves, implies 75-­80M invested max
-### 20 investments,	2­‐4M	per deal initial investment, 4M average over	 severall rounds	
-### Hurdle rate 7%,	6 years average	holding period	=> “positive return” for the	team	 means above 150 M	
-
-### Target IRR of fund investors is 10-­15% net of carried interest    => happy investors needs total return above approx. 225 M	
-* ### below 2x, we actually	 “lose money”, 3x is a positive contributor to fund objective, need 5x and 10x to compensate for bad investments
-* ### Opportunity cost per	deal is at least 1,2M although 5M could be argued
-### Opportunity costs weighs on returns more on smaller deals
-
-
 # How an early stage fund makes money
 
 * 20 deals:	
