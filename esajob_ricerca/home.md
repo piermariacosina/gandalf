@@ -1,19 +1,15 @@
 http://www.kijiji.it/ <br>
-
-
-http://annunci.ebay.it/ebay-annunci 
-***
-
-http://www.bakeca.it/home.php
-http://www.subito.it/
-http://www.idealista.it/
-http://www.trito.it/
-http://www.careerjet.it/
-http://www.annunci.net/
-http://www.secondamano.it/
-http://www.recycler.com/rcy/recycler/allentown/def.jsp
-http://www.findix.de/
-http://www.quoka.de/
+http://annunci.ebay.it/ebay-annunci <br>
+http://www.bakeca.it/home.php <br>
+http://www.subito.it/ <br>
+http://www.idealista.it/ <br>
+http://www.trito.it/ <br>
+http://www.careerjet.it/ <br>
+http://www.annunci.net/ <br>
+http://www.secondamano.it/ <br>
+http://www.recycler.com/rcy/recycler/allentown/def.jsp <br>
+http://www.findix.de/ <br>
+http://www.quoka.de/ <br>
 
 
 
