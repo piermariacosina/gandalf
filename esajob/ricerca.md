@@ -25,5 +25,5 @@ http://www.behance.net/gallery/Print-house-search-tool/7099679
 
 ***
 
-[[img1.png.png]]
+[[img1.png]]
 
