@@ -25,12 +25,12 @@ http://www.behance.net/gallery/Print-house-search-tool/7099679
 
 ***
 
-[[img1.png]]
-[[img2.png]]
-[[img3.png]]
-[[img4.png]]
-[[img5.png]]
-[[img6.png]]
-[[img7.png]]
-[[img8.png]]
+[[img_1.png]]
+[[img_2.png]]
+[[img_3.png]]
+[[img_4.png]]
+[[img_5.png]]
+[[img_6.png]]
+[[img_7.png]]
+[[img_8.png]]
 
