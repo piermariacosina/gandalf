@@ -9,7 +9,8 @@ http://www.annunci.net/ <br>
 http://www.secondamano.it/ <br>
 http://www.recycler.com/rcy/recycler/allentown/def.jsp <br>
 http://www.findix.de/ <br>
-http://www.quoka.de/ <br> <br>
+http://www.quoka.de/ <br>
+http://www.casaclick.it/  <br> <br>
 
 http://www.roomhunt.com/# <br>
 http://www.zillow.com/cool-ca/ <br>
