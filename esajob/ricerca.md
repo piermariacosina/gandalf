@@ -12,6 +12,7 @@ http://www.findix.de/ <br>
 http://www.quoka.de/ <br>
 http://www.casaclick.it/  <br> <br>
 
+http://www.visitfinland.com/ <br>
 http://www.roomhunt.com/# <br>
 http://www.zillow.com/cool-ca/ <br>
 http://www.freelancer.com/ <br>
