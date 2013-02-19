@@ -34,6 +34,9 @@ http://digg.com/ <br>
 http://www.cnet.com/ <br>
 http://www.scmp.com/ <br>
 http://www.anothermag.com/  <br>
+http://www.artravel.net/ <br>
+http://www.juxtapoz.com/ <br>
+http://www.interviewmagazine.com/#culture <br>
 http://www.bbc.co.uk/ <br> <br>
 
 
