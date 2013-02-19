@@ -5,7 +5,6 @@ http://www.subito.it/ <br>
 http://www.idealista.it/ <br>
 http://www.trito.it/ <br>
 http://www.careerjet.it/ <br>
-http://www.annunci.net/ <br>
 http://www.secondamano.it/ <br>
 http://www.recycler.com/rcy/recycler/allentown/def.jsp <br>
 http://www.findix.de/ <br>
