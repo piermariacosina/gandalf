@@ -48,11 +48,11 @@ http://www.behance.net/gallery/Print-house-search-tool/7099679
 ***
 # PROBLEMATICHE RISCONTRATE:
 
-problemi con le categorie
-margin: 0 - risultato caotico / soffocante
-publicity?
-gerarchia contenuti
-link bottoni incomprensibili
+* problemi con le categorie
+* margin: 0 - risultato caotico / soffocante
+* publicity?
+* gerarchia contenuti
+* link bottoni incomprensibili
 
 
 ***
