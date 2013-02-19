@@ -26,6 +26,9 @@ http://evolvevacationrental.com/ <br>
 http://www.thinkgeek.com/ <br>
 http://www.exclusiveresorts.com/ <br> <br>
 
+http://www.creativehunt.com/shanghai/ <br>
+http://www.smartshanghai.com/ <br> <br>
+
 http://www.kataweb.it/ <br>
 http://monocle.com/ <br>
 http://www.ilpost.it/ <br>
