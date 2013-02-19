@@ -11,6 +11,17 @@ http://www.recycler.com/rcy/recycler/allentown/def.jsp <br>
 http://www.findix.de/ <br>
 http://www.quoka.de/ <br> <br>
 
+http://www.roomhunt.com/# <br>
+http://www.zillow.com/cool-ca/ <br>
+http://www.freelancer.com/ <br>
+http://42floors.com/ <br>
+http://www.houzz.com/ <br>
+http://www.trulia.com/ <br>
+http://www.homelight.com/ <br>
+http://www.pixloo.com/ <br>
+http://www.nuroa.it/ <br>
+http://evolvevacationrental.com/ <br>
+http://www.exclusiveresorts.com/ <br> <br>
 
 http://www.kataweb.it/ <br>
 http://monocle.com/ <br>
